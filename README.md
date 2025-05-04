@@ -1,4 +1,6 @@
 # mcp-asset-gen
+[![npm version](https://badge.fury.io/js/mcp-asset-gen.svg)](https://badge.fury.io/js/mcp-asset-gen)
+
 
 This tool allows Claude to speak to OpenAI, and use `gpt-image-1` to generate image assets. This can be pretty useful for game or web development, when you need to print individual assets.
 
