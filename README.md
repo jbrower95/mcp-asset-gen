@@ -1,5 +1,6 @@
 # mcp-asset-gen
 [![npm version](https://badge.fury.io/js/mcp-asset-gen.svg)](https://badge.fury.io/js/mcp-asset-gen)
+[![smithery badge](https://smithery.ai/badge/@jbrower95/mcp-asset-gen)](https://smithery.ai/server/@jbrower95/mcp-asset-gen)
 
 
 This tool allows Claude to speak to OpenAI, and use `gpt-image-1` to generate image assets. This can be pretty useful for game or web development, when you need to print individual assets.
@@ -12,6 +13,15 @@ This tool allows Claude to speak to OpenAI, and use `gpt-image-1` to generate im
 
 # Installation
 
+### Installing via Smithery
+
+To install MCP Asset Gen for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@jbrower95/mcp-asset-gen):
+
+```bash
+npx -y @smithery/cli install @jbrower95/mcp-asset-gen --client claude
+```
+
+### Manual Installation
 1. Get an API KEY from the [OpenAI website](https://platform.openai.com/settings/organization/api-keys).
 
 2. Export it in your shell as API_KEY.
