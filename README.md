@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jbrower95-mcp-asset-gen-badge.png)](https://mseep.ai/app/jbrower95-mcp-asset-gen)
+
 # mcp-asset-gen
 [![npm version](https://badge.fury.io/js/mcp-asset-gen.svg)](https://badge.fury.io/js/mcp-asset-gen)
 
